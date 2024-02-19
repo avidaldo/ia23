@@ -1,0 +1,18 @@
+# *Machine Learning* con Python
+
+- [Introducción a *machine learning*](./intro/intro-ml.md)
+- Numpy
+    - [NumPy](./numpy/numpy1.ipynb)
+    - [Álgebra con NumPy](./numpy/numpy2_algebra.ipynb)
+- Pandas
+    - [Introducción, Series y estructura de DataFrame](./pandas/pandas1.ipynb)
+    - [Operaciones con DaraFrames](./pandas/pandas_dataframe_op.ipynb)
+- [Regresión lineal simple](./algoritmos/regresion_lineal_simple.ipynb)
+- [Regresión logística](./algoritmos/regresion_logistica.ipynb)
+- [Scikit-learn: Clasificación binaria sobre Iris *Toy Dataset*](./sklearn/clasificacion_binaria_iris.ipynb)
+- Proyecto de *Machine Learning* de principio a fin
+    - [Visión general](./end2end/e2e01_framing.ipynb)
+    - [Conjuntos de entrenamiento y de prueba](./end2end/e2e02_train_test.ipynb)
+    - [Exploración de datos](./end2end/e2e03_eda.ipynb.ipynb)
+    - [Preprocesamiento de datos](./end2end/e2e04_preprocessing.ipynb)
+
