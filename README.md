@@ -1,9 +1,11 @@
 # *Machine Learning* con Python
 
 - [Introducción a *machine learning*](./intro/intro-ml.md)
+- [Repositorio sobre probabilidad bayesiana](https://github.com/avidaldo/mates_ml)
 - Numpy
     - [NumPy](./numpy/numpy1.ipynb)
     - [Álgebra con NumPy](./numpy/numpy2_algebra.ipynb)
+- [Repositorio con ejercicios de Python y NumPy](https://github.com/avidaldo/python-ejercicios)
 - Pandas
     - [Introducción, Series y estructura de DataFrame](./pandas/pandas1.ipynb)
     - [Operaciones con DaraFrames](./pandas/pandas_dataframe_op.ipynb)
