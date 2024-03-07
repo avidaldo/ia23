@@ -8,7 +8,7 @@
 - [Repositorio con ejercicios de Python y NumPy](https://github.com/avidaldo/python-ejercicios)
 - Pandas
     - [Introducción, Series y estructura de DataFrame](./pandas/pandas1.ipynb)
-    - [Operaciones con DaraFrames](./pandas/pandas_dataframe_op.ipynb)
+    - [Operaciones con DataFrames](./pandas/pandas_dataframe_op.ipynb)
 - Algoritmos de *machine learning*
     - [Regresión lineal simple](./algoritmos/regresion_lineal_simple.ipynb)
     - [Regresión logística](./algoritmos/regresion_logistica.ipynb)
