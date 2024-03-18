@@ -1,0 +1,494 @@
+{ // Settings for linux
+
+        /*******************************************************************************************************/
+        /* THEME:*/
+        /*******************************************************************************************************/
+        "react-native-tools.networkInspector.consoleLogsColorTheme": "Dark",
+        "markdownShiki.theme": "dark_vs",
+        "material-icon-theme.activeIconPack": "react_redux",
+        "oneDarkPro.editorTheme": "One Dark Pro",
+        "workbench.preferredDarkColorTheme": "One Dark Pro",
+        "workbench.iconTheme": "material-icon-theme",
+        "workbench.colorTheme": "One Dark Pro",
+        "keyboard.layout": "0000040A",
+        /*******************************************************************************************************/
+        /* EDITOR:*/
+        /*******************************************************************************************************/
+        "editor.minimap.enabled": false,
+        "editor.fontLigatures": "'calt','ss01', 'ss02', 'ss03', 'ss04', 'ss05', 'ss06', 'zero', 'onum'",
+        "editor.fontFamily": "'Cascadia Code',Consolas, 'Courier New', monospace",
+        "editor.bracketPairColorization.enabled": true,
+        "editor.guides.bracketPairs": "active",
+        "editor.inlineSuggest.enabled": true,
+        "[javascriptreact]": {
+          "editor.defaultFormatter": "esbenp.prettier-vscode"
+        },
+        "[javascript]": {
+          "editor.defaultFormatter": "esbenp.prettier-vscode"
+        },
+        "files.eol": "\n",
+        "[json]": {
+          "editor.defaultFormatter": "esbenp.prettier-vscode"
+        },
+        "[typescript]": {
+          "editor.defaultFormatter": "esbenp.prettier-vscode"
+        },
+        "[typescriptreact]": {
+          "editor.defaultFormatter": "esbenp.prettier-vscode"
+        },
+        "[html]": {
+          "editor.defaultFormatter": "vscode.html-language-features"
+        },
+        "[css]": {
+          "editor.defaultFormatter": "esbenp.prettier-vscode"
+        },
+        "[jsonc]": {
+          "editor.defaultFormatter": "rvest.vs-code-prettier-eslint"
+        },
+        "[xml]": {
+          "editor.defaultFormatter": "redhat.vscode-xml"
+        },
+        "[plaintext]": {
+          "editor.snippetSuggestions": "none",
+          "editor.acceptSuggestionOnEnter": "off",
+          "editor.snippets.codeActions.enabled": false,
+          "editor.wordBasedSuggestions": "off",
+          "editor.unicodeHighlight.ambiguousCharacters": false,
+          "editor.unicodeHighlight.invisibleCharacters": false
+        },
+        "[markdown]": {
+          "editor.defaultFormatter": "esbenp.prettier-vscode",
+          "editor.formatOnSave": true,
+          "editor.formatOnPaste": true
+        },
+        "markdown-preview-enhanced.revealjsTheme": "moon.css",
+        "markdown-preview-enhanced.previewTheme": "one-dark.css",
+        "[python]": {
+          "editor.formatOnSave": true,
+          "editor.formatOnPaste": true,
+          "editor.codeActionsOnSave": {
+            "source.fixAll": "explicit",
+            "source.organizeImports": "explicit"
+          },
+          "editor.defaultFormatter": "charliermarsh.ruff"
+        },
+        "notebook.formatOnSave.enabled": true,
+        "notebook.codeActionsOnSave": {
+          "notebook.source.fixAll": "explicit",
+          "notebook.source.organizeImports": "explicit"
+        },
+        "files.associations": {
+          "*.ipynb": "jupyter-notebook"
+      },      
+        /*******************************************************************************************************/
+        /* GIT:*/
+        /*******************************************************************************************************/
+        "git.autofetch": true,
+        /*******************************************************************************************************/
+        /* TERMINAL:*/
+        /*******************************************************************************************************/
+        "terminal.integrated.fontFamily": "CaskaydiaCove NF",
+        "terminal.integrated.profiles.windows": {
+          "MyBash": {
+            "path": "I:\\14_GIT\\Git\\bin\\bash.exe",
+            "color": "terminal.ansiGreen",
+            "icon": "terminal-bash"
+          },
+          "PowerShell": {
+            "source": "PowerShell",
+            "args": [
+              "-NoProfile"
+            ],
+            "color": "terminal.ansiBlue",
+            "icon": "terminal-powershell"
+          }
+        },
+        "terminal.integrated.profiles.linux": {
+          "bash": {
+            "path": "bash",
+            "icon": "terminal-bash"
+          },
+          "zsh": {
+            "path": "zsh"
+          },
+          "fish": {
+            "path": "fish"
+          },
+          "tmux": {
+            "path": "tmux",
+            "icon": "terminal-tmux"
+          },
+          "pwsh": {
+            "path": "pwsh",
+            "icon": "terminal-powershell"
+          },
+          "nodo1 - bie1": {
+            "path": "bash",
+            "icon": "terminal-bash",
+            "overrideName": true,
+            "color": "terminal.ansiCyan"
+          },
+          "nodo2 - bie2": {
+            "path": "bash",
+            "icon": "terminal-bash",
+            "overrideName": true,
+            "color": "terminal.ansiMagenta"
+          },
+          "nodo3 - bie3": {
+            "path": "bash",
+            "icon": "terminal-bash",
+            "overrideName": true,
+            "color": "terminal.ansiYellow"
+          },
+          "nodo4 - bie4": {
+            "path": "bash",
+            "icon": "terminal-bash",
+            "overrideName": true,
+            "color": "terminal.ansiBlue"
+          },
+        },
+        "redhat.telemetry.enabled": true,
+        "markdown-preview-enhanced.enablePreviewZenMode": false,
+        "terminal.integrated.inheritEnv": false,
+        /*******************************************************************************************************/
+        /* clockify:*/
+        /*******************************************************************************************************/
+        "clockify.apiKey": "NDgyZGRmNmQtYzY5Yi00ZTBjLTgzMmUtMzI4MGI2MzIzZTdk",
+        "clockify.defaultWorkspaceId": "6496b6855beb74277a167778",
+        /*******************************************************************************************************/
+        /* EXTENSION: ESLINT (https://marketplace.visualstudio.com/items?itemName=sleistner.vscode-fileutils)*/
+        /*******************************************************************************************************/
+        //"eslint.workingDirectories": [
+          //  "./src"
+          //],
+          //"github.copilot.enable": {
+            //  "*": true,
+            //  "plaintext": true,
+            //  "markdown": false,
+            //  "scminput": false
+            //},
+            "editor.codeActionsOnSave": {
+              "source.fixAll.eslint": "explicit",
+              "source.fixAll.markdownlint": "explicit"
+            }, 
+            "editor.formatOnSave" : true,
+            "eslint.validate": [
+              "javascript",
+              "javascriptreact",
+              "typescript",
+              "typescriptreact"
+            ],
+            "markdown-preview-enhanced.alwaysShowBacklinksInPreview": false,
+            "markdown-preview-enhanced.codeBlockTheme": "auto.css",
+            
+            /*******************************************************************************************************/
+            /* EXTENSION: ESLINT (https://marketplace.visualstudio.com/items?itemName=sleistner.vscode-fileutils)*/
+            /*******************************************************************************************************/
+            
+              "todo-tree.general.showActivityBarBadge": true,
+              //"todo-tree.regex.regex": "((//|#|<!--|;|/\\*|^)((\\s+(!|\\?|\\*|\\-))?(\\s+\\[ \\])?|(\\s+(!|\\?|\\*)\\s+\\[.\\])?)\\s*($TAGS)\\s*\\:)",
+              "todo-tree.regex.regex": "(//|#|<!--|;|/\\*|^|^\\s*(-|\\d+.))\\s*($TAGS)",
+              "todo-tree.general.tags": ["BUG","HACK","NOTE","TODO","FIXME","MARK","[ ]","[x]","[/]","@BIE","@ANGY","BIE","ANGY"],
+              "todo-tree.highlights.defaultHighlight": {
+                "type": "tag",
+                "fontWeight": "bold",
+                "foreground": "#000000",
+                "opacity": 90
+              },
+              "todo-tree.highlights.customHighlight": {
+                "BUG": {
+                  "icon": "alert",
+                  "foreground": "#192434",
+                  "background": "#FF4A4AEE",
+                  "iconColour": "#FF4A4AEE"
+              },
+                "HACK": {
+                  "icon": "zap",
+                  "foreground": "#192434",
+                  "background": "#49F3C3",
+                  "iconColour": "#49F3C3"
+              },
+                "NOTE": {
+                  "background": "#FFA500",
+                  "iconColour": "#FFA500",
+                  "icon": "file"
+                },
+                "TODO": {
+                  "background": "#FFD703",
+                  "iconColour": "#FFD703",
+                  "icon": "tasklist"
+                },
+                "FIXME": {
+                  "background": "#FF01FF",
+                  "iconColour": "#FF01FF",
+                  "icon": "bug"
+                },
+                "MARK": {
+                  "background": "#157EFB",
+                  "iconColour": "#157EFB",
+                  "icon": "tag"
+                },
+                "[ ]": {
+                  "background": "#ff000080",
+                  "iconColour": "#ff000080",
+                  "icon": "square"
+                },
+                "[/]": {
+                  "background": "#157EFB",
+                  "iconColour": "#157EFB",
+                  "icon": "hourglass"
+                },
+                "[x]": {
+                  "background": "#00ff0080",
+                  "iconColour": "#00ff0080",
+                  "icon": "square-fill"
+                },
+                "@ANGY": {
+                  "background": "#ff00ea80",
+                  "iconColour": "#ff00ea80",
+                  "icon": "person"
+                },
+                "@BIE": {
+                  "background": "#00ff0080",
+                  "iconColour": "#00ff0080",
+                  "icon": "person"
+                },
+                "ANGY": {
+                  "background": "#ff00ea80",
+                  "iconColour": "#ff00ea80",
+                  "icon": "person"
+                },
+                "BIE": {
+                  "background": "#00ff0080",
+                  "iconColour": "#00ff0080",
+                  "icon": "person"
+                },
+          
+              },
+              "todo-tree.tree.labelFormat": "${tag} ${subtag}: ${after}",
+              "todo-tree.tree.tooltipFormat": "${filename}:[${line}] in ${filepath}",
+              "todo-tree.general.schemes": [
+                "file",
+                "ssh",
+                "untitled",
+                "vscode-notebook-cell"
+              ],
+              "todo-tree.filtering.excludeGlobs": [
+                "**/vendor/**",
+                "**/node_modules/**",
+                "**/dist/**",
+                "**/bower_components/**",
+                "**/build/**",
+                "**/.vscode/**",
+                "**/.github/**",
+                "**/_output/**",
+                "**/*.min.*",
+                "**/*.map",
+                // custom
+                "**/algoritmos/**",
+                "**/end2end/**",
+                "**/intro/**",
+                "**/numpy/**",
+                "**/overfitting/**",
+                "**/pandas/**",
+                "**/sklearn/**",
+            ],
+              // icons in : https://primer.style/design/foundations/icons
+
+            /*******************************************************************************************************/
+            /* EXTENSION: 
+              # Spanish - Code Spell Checker 
+              # Code Spell Checker
+            */
+            /*******************************************************************************************************/
+            
+              
+              "cSpell.language": "en,es",
+              "cSpell.userWords": [
+                "angy",
+                "ANGY",
+                "Barreiro",
+                "bie",
+                "BIE",
+                "bieito",
+                "Bieito",
+                "bigdata",
+                "Cascadia",
+                "ceia",
+                "datanode",
+                "datanodes",
+                "decomisionado",
+                "dfsadmin",
+                "Diffie-Hellman",
+                "ecdsa",
+                "esbenp",
+                "ethernets",
+                "fdisk",
+                "fsimage",
+                "getconf",
+                "hdfs",
+                "httpfs",
+                "iconColour",
+                "instanciamos",
+                "javi",
+                "jconsole",
+                "jobhistory",
+                "linux",
+                "namenode",
+                "namenodes",
+                "openssh",
+                "pagebreak",
+                "reconfig",
+                "redhat",
+                "subtag",
+                "virtualizados",
+                "Xceivers",
+                "drawio"
+              ],
+
+              "projectManager.git.baseFolders": [
+                "${userHome}/Project/",
+                "${userHome}/Vault/"
+              ],
+
+            /*******************************************************************************************************/
+            /* EXTENSION: markdownlint */
+            /*******************************************************************************************************/
+            /*
+            Rules
+                MD001 heading-increment - Heading levels should only increment by one level at a time
+                MD003 heading-style - Heading style
+                MD004 ul-style - Unordered list style
+                MD005 list-indent - Inconsistent indentation for list items at the same level
+                MD007 ul-indent - Unordered list indentation
+                MD009 no-trailing-spaces - Trailing spaces
+                MD010 no-hard-tabs - Hard tabs
+                MD011 no-reversed-links - Reversed link syntax
+                MD012 no-multiple-blanks - Multiple consecutive blank lines
+                MD013 line-length - Line length
+                MD014 commands-show-output - Dollar signs used before commands without showing output
+                MD018 no-missing-space-atx - No space after hash on atx style heading
+                MD019 no-multiple-space-atx - Multiple spaces after hash on atx style heading
+                MD020 no-missing-space-closed-atx - No space inside hashes on closed atx style heading
+                MD021 no-multiple-space-closed-atx - Multiple spaces inside hashes on closed atx style heading
+                MD022 blanks-around-headings - Headings should be surrounded by blank lines
+                MD023 heading-start-left - Headings must start at the beginning of the line
+                MD024 no-duplicate-heading - Multiple headings with the same content
+                MD025 single-title/single-h1 - Multiple top level headings in the same document
+                MD026 no-trailing-punctuation - Trailing punctuation in heading
+                MD027 no-multiple-space-blockquote - Multiple spaces after blockquote symbol
+                MD028 no-blanks-blockquote - Blank line inside blockquote
+                MD029 ol-prefix - Ordered list item prefix
+                MD030 list-marker-space - Spaces after list markers
+                MD031 blanks-around-fences - Fenced code blocks should be surrounded by blank lines
+                MD032 blanks-around-lists - Lists should be surrounded by blank lines
+                MD033 no-inline-html - Inline HTML
+                MD034 no-bare-urls - Bare URL used
+                MD035 hr-style - Horizontal rule style
+                MD036 no-emphasis-as-heading - Emphasis used instead of a heading
+                MD037 no-space-in-emphasis - Spaces inside emphasis markers
+                MD038 no-space-in-code - Spaces inside code span elements
+                MD039 no-space-in-links - Spaces inside link text
+                MD040 fenced-code-language - Fenced code blocks should have a language specified
+                MD041 first-line-heading/first-line-h1 - First line in file should be a top level heading
+                MD042 no-empty-links - No empty links
+                MD043 required-headings - Required heading structure
+                MD044 proper-names - Proper names should have the correct capitalization
+                MD045 no-alt-text - Images should have alternate text (alt text)
+                MD046 code-block-style - Code block style
+                MD047 single-trailing-newline - Files should end with a single newline character
+                MD048 code-fence-style - Code fence style
+                MD049 emphasis-style - Emphasis style should be consistent
+                MD050 strong-style - Strong style should be consistent
+                MD051 link-fragments - Link fragments should be valid
+                MD052 reference-links-images - Reference links and images should use a label that is defined
+                MD053 link-image-reference-definitions - Link and image reference definitions should be needed
+                MD054 link-image-style - Link and image style
+                MD055 table-pipe-style - Table pipe style
+                MD056 table-column-count - Table column count
+            */
+            "markdownlint.config":{
+            "MD026": false,
+            "MD028":false, // MD028/no-blanks-blockquote: Blank line inside blockquote
+            "default": true,
+            /*"MD003": { "style": "atx_closed" },*/
+            "MD007": { "indent": 4 },
+            "no-hard-tabs": false
+            },
+            
+            /*******************************************************************************************************/
+            /* EXTENSION: drawio */
+            /*******************************************************************************************************/
+            "hediet.vscode-drawio.resizeImages": null,
+            "notebook.cellToolbarLocation": {
+              "default": "right",
+              "jupyter-notebook": "left"
+            },
+            /*******************************************************************************************************/
+            /* EXTENSION: workspaceExplorer */
+            /*******************************************************************************************************/
+            "workspaceExplorer.workspaceStorageDirectory": "${userHome}/Project/WORKSPACE_PATH",
+            "workspaceExplorer.additionalCustomIconDirectory": "${userHome}/Project/WORKSPACE_ICON",
+            /*******************************************************************************************************/
+            /* EXTENSION: CodeGptChat */
+            /*******************************************************************************************************/
+            "CodeGPT.apiKey": "OpenAI",
+            "CodeGPT.query.language": "Spanish",
+            /*******************************************************************************************************/
+            /* EXTENSION: Others */
+            /*******************************************************************************************************/
+            "vscode-office.openOutline": true,
+            "vscode-office.editorTheme": "Dracula",
+            "window.zoomPerWindow": false,
+}
+/*
+url : https://code.visualstudio.com/docs/editor/variables-reference
+Predefined variables
+The following predefined variables are supported:
+
+${userHome} - the path of the user's home folder
+${workspaceFolder} - the path of the folder opened in VS Code
+${workspaceFolderBasename} - the name of the folder opened in VS Code without any slashes (/)
+${file} - the current opened file
+${fileWorkspaceFolder} - the current opened file's workspace folder
+${relativeFile} - the current opened file relative to workspaceFolder
+${relativeFileDirname} - the current opened file's dirname relative to workspaceFolder
+${fileBasename} - the current opened file's basename
+${fileBasenameNoExtension} - the current opened file's basename with no file extension
+${fileExtname} - the current opened file's extension
+${fileDirname} - the current opened file's folder path
+${fileDirnameBasename} - the current opened file's folder name
+${cwd} - the task runner's current working directory upon the startup of VS Code
+${lineNumber} - the current selected line number in the active file
+${selectedText} - the current selected text in the active file
+${execPath} - the path to the running VS Code executable
+${defaultBuildTask} - the name of the default build task
+${pathSeparator} - the character used by the operating system to separate components in file paths
+${/} - shorthand for ${pathSeparator}
+Predefined variables examples
+Supposing that you have the following requirements:
+
+A file located at /home/your-username/your-project/folder/file.ext opened in your editor;
+The directory /home/your-username/your-project opened as your root workspace.
+So you will have the following values for each variable:
+
+${userHome} - /home/your-username
+${workspaceFolder} - /home/your-username/your-project
+${workspaceFolderBasename} - your-project
+${file} - /home/your-username/your-project/folder/file.ext
+${fileWorkspaceFolder} - /home/your-username/your-project
+${relativeFile} - folder/file.ext
+${relativeFileDirname} - folder
+${fileBasename} - file.ext
+${fileBasenameNoExtension} - file
+${fileDirname} - /home/your-username/your-project/folder
+${fileExtname} - .ext
+${lineNumber} - line number of the cursor
+${selectedText} - text selected in your code editor
+${execPath} - location of Code.exe
+${pathSeparator} - / on macOS or linux, \ on Windows
+Tip: Use IntelliSense inside string values for tasks.json and launch.json to get a full list of predefined variables.
+
+
+
+*/
