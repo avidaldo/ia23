@@ -1,0 +1,9 @@
+- [ ] 1. Realizar un diagrama identificando los casos de uso para los modelos.
+- [ ] 2. Repasar un poco python
+- [ ] 3. Repasar los objetos básicos list, dic, DataFrame , series , numpy.ndarray y la conversion/relación entre ellos.
+- [ ] 4. función "train_test_split"
+- [ ] 5. los encoders
+- [ ] 6. los imputer.
+- [ ] 7. Funciones de los modelos/imputers: fit / trasform / predict.
+- [ ] 8. pipe.
+

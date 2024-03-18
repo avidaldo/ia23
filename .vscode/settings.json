@@ -178,7 +178,7 @@
               "typescript",
               "typescriptreact"
             ],
-            "markdown-preview-enhanced.alwaysShowBacklinksInPreview": false,
+            "markdown-preview-enhanced.alwaysShowBacklinksInPreview": true,
             "markdown-preview-enhanced.codeBlockTheme": "auto.css",
             
             /*******************************************************************************************************/
@@ -292,6 +292,7 @@
                 "**/overfitting/**",
                 "**/pandas/**",
                 "**/sklearn/**",
+                "**/markdown-basics.md"
             ],
               // icons in : https://primer.style/design/foundations/icons
 
@@ -343,7 +344,10 @@
                 "subtag",
                 "virtualizados",
                 "Xceivers",
-                "drawio"
+                "drawio",
+                "ipynb",
+                "scikit",
+                "preprocesado"
               ],
 
               "projectManager.git.baseFolders": [
