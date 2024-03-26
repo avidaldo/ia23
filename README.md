@@ -21,5 +21,4 @@
     - [Conjuntos de entrenamiento y de prueba](./end2end/e2e02_train_test.ipynb)
     - [Exploración de datos](./end2end/e2e03_eda.ipynb.ipynb)
     - [Preprocesamiento de datos](./end2end/e2e04_preprocessing.ipynb)
-        - [Imputación de datos no disponibles con KNNImputer](./end2end/knn_imputer.ipynb)
-
+        - [Imputación de datos no disponibles con KNNImputer](./end2end/e2e05_knnimputer.ipynb)
