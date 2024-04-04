@@ -22,3 +22,4 @@
     - [Exploración de datos](./end2end/e2e03_eda.ipynb.ipynb)
     - [Preprocesamiento de datos](./end2end/e2e04_preprocessing.ipynb)
         - [Imputación de datos no disponibles con KNNImputer](./end2end/e2e05_knnimputer.ipynb)
+    - [Entrenando y evaluando modelos](./end2end/e2e06_model_evaluation.ipynb)
