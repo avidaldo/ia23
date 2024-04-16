@@ -24,6 +24,7 @@
 - Ejemplos de *machine learning* con Scikit-learn
     - Regresión
         - [Regresión lineal sobre diabetes *Toy Dataset* de Scikit-learn](./sklearn/diabetes_regression.ipynb)
+        - [Valores no disponibles - Regresión para esperanza de vida](./sklearn/life_expectancy_missing.ipynb)
     - Clasificación
         - [Regresión logística sobre Iris *Toy Dataset* de Scikit-learn](./sklearn/iris_logistic.ipynb)
         - [Evaluación de clasificación sobre implementaciones de SVM para el *dataset* MNIST](./sklearn/mnist_svm_eval.ipynb)
