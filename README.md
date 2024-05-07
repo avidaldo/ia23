@@ -29,5 +29,8 @@
         - [Regresión logística sobre Iris *Toy Dataset* de Scikit-learn](./sklearn/iris_logistic.ipynb)
         - [Evaluación de clasificación sobre implementaciones de SVM para el *dataset* MNIST](./sklearn/mnist_svm_eval.ipynb)
         - [Comparación de clasificadores sobre *dataset* de prescripciones de fármacos](./sklearn/drug_classification_compare.ipynb)
+        - [Evaluación detallada de Regresión Logística multinomial sobre Iris](./sklearn/iris_logistic_eval.ipynb)
+        - [Comparación de clasificadores sobre Iris](./sklearn/iris_comparison.py)
+        - [Comparación de clasificadores sobre Iris con *cross-validation*](./sklearn/iris_comparison_cv.py)
     - Clustering
         - [Clustering con K-means](./sklearn/kmeans.ipynb)
