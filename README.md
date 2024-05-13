@@ -34,6 +34,7 @@
         - [Comparación de clasificadores sobre Iris con *cross-validation*](./sklearn/iris_comparison_cv.py)
     - Clustering
         - [Clustering con K-means](./sklearn/kmeans.ipynb)
+        - [Clustering de Iris con K-means y comparación con etiquetas](./sklearn/iris_clustering.ipynb)
 - Redes neuronales
     - [Introducción a PyTorch y tensores](./pytorch/01_pytorch.ipynb)
     
