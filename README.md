@@ -37,4 +37,5 @@
         - [Clustering de Iris con K-means y comparación con etiquetas](./sklearn/iris_clustering.ipynb)
 - Redes neuronales
     - [Introducción a PyTorch y tensores](./pytorch/01_pytorch.ipynb)
+    - [Ejemplo completo de clasificación de Fashion MNIST](./pytorch/02_FashionMNIST.ipynb)
     
