@@ -41,3 +41,4 @@
     - [Explicación de modelos y capas lineares](./pytorch/modelos.ipynb)
     - [Ejemplo de clasificación de Iris con NN](./pytorch/pytorch_iris.ipynb)
     - [Introducción a redes convolucionales](./pytorch/convoluciones.ipynb)
+    - [Clasificación de MNIST con CNN](./pytorch/CNN_MNIST.ipynb)
