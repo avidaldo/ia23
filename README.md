@@ -39,4 +39,5 @@
     - [Introducción a PyTorch y tensores](./pytorch/01_pytorch.ipynb)
     - [Ejemplo completo de clasificación de Fashion MNIST](./pytorch/02_FashionMNIST.ipynb)
     - [Explicación de modelos y capas lineares](./pytorch/modelos.ipynb)
+    - [Ejemplo de clasificación de Iris con NN](./pytorch/pytorch_iris.ipynb)
     - [Introducción a redes convolucionales](./pytorch/convoluciones.ipynb)
