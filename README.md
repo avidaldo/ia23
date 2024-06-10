@@ -40,5 +40,6 @@
     - [Ejemplo completo de clasificación de Fashion MNIST](./pytorch/02_FashionMNIST.ipynb)
     - [Explicación de modelos y capas lineares](./pytorch/modelos.ipynb)
     - [Ejemplo simple de clasificación de Iris con NN](./pytorch/pytorch_iris.ipynb)
+    - [Clasificación de MNIST con FNN](./pytorch/FNN_MNIST.ipynb)
     - [Introducción a redes convolucionales](./pytorch/convoluciones.ipynb)
     - [Clasificación de MNIST con CNN](./pytorch/CNN_MNIST.ipynb)
