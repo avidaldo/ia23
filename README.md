@@ -43,3 +43,7 @@
     - [Clasificación de MNIST con FNN](./pytorch/FNN_MNIST.ipynb)
     - [Introducción a redes convolucionales](./pytorch/convoluciones.ipynb)
     - [Clasificación de MNIST con CNN](./pytorch/CNN_MNIST.ipynb)
+
+- Exámenes finales
+    - [Máxima profundidad de árbol de decisión mediante validación cruzada](./sklearn/max_depth_cv.ipynb)
+    - [Clasificación de CIFAR-10 en escala de grises con redes neuronales](./pytorch/CIFAR10_gray.ipynb)
