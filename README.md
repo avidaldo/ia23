@@ -47,3 +47,5 @@
 - Exámenes finales
     - [Máxima profundidad de árbol de decisión mediante validación cruzada](./sklearn/max_depth_cv.ipynb)
     - [Clasificación de CIFAR-10 en escala de grises con redes neuronales](./pytorch/CIFAR10_gray.ipynb)
+    - [Interpretación de un modelo de red neuronal sobre dataset desequilibrado](./pytorch/saa_final_1_analisis_modelo.ipynb)
+    - [Analisis de preprocesado en dataset de precios de viviendas de Melbourne](./sklearn/melbourne.ipynb)
