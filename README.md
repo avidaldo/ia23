@@ -1,4 +1,4 @@
-# *Machine Learning* con Python
+# Inteligencia Artificial - 2023/24
 
 - [Introducción a *machine learning*](./intro/intro-ml.md)
 - [Repositorio sobre probabilidad bayesiana](https://github.com/avidaldo/mates_ml)
